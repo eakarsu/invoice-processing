@@ -1,0 +1,30 @@
+{
+  "id": "invoice-processing",
+  "title": "Invoice Processing App",
+  "industry": "Financial Services",
+  "industryId": "financial-services",
+  "specialization": "Invoice Processing",
+  "sourcePlatformGroup": "accounting-tax-audit-platform",
+  "sources": [
+    "AIExpenseReportAuditor",
+    "AIForensicAccountingInvestigator",
+    "AIInvoiceProcessing",
+    "AiTaxPrep"
+  ],
+  "featureCount": 224,
+  "candidateFeatureCount": 300,
+  "eliminatedSimilarFeatures": 76,
+  "evidenceCount": 573,
+  "aiPageCount": 0,
+  "sourceAIPageCount": 0,
+  "featureEvidencePolicy": "Existing source routes, pages, APIs, models, schemas, and navigation only",
+  "optimizationPolicy": "Equivalent feature names are consolidated once per industry and assigned to one canonical app owner",
+  "database": "database.sqlite",
+  "databaseSeed": {
+    "seededProjects": 2,
+    "seededTables": 27,
+    "seededRows": 437
+  },
+  "visibleFeatureCount": 25,
+  "featureVisibilityMode": "seeded-or-ai"
+}
