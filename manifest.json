@@ -11,12 +11,12 @@
     "AIInvoiceProcessing",
     "AiTaxPrep"
   ],
-  "featureCount": 230,
-  "candidateFeatureCount": 320,
-  "eliminatedSimilarFeatures": 90,
-  "evidenceCount": 607,
-  "aiPageCount": 0,
-  "sourceAIPageCount": 0,
+  "featureCount": 234,
+  "candidateFeatureCount": 323,
+  "eliminatedSimilarFeatures": 89,
+  "evidenceCount": 613,
+  "aiPageCount": 4,
+  "sourceAIPageCount": 4,
   "featureEvidencePolicy": "Existing source routes, pages, APIs, models, schemas, and navigation only",
   "optimizationPolicy": "Equivalent feature names are consolidated once per industry and assigned to one canonical app owner",
   "database": "database.sqlite",
@@ -25,6 +25,6 @@
     "seededTables": 27,
     "seededRows": 437
   },
-  "visibleFeatureCount": 25,
+  "visibleFeatureCount": 29,
   "featureVisibilityMode": "seeded-or-ai"
 }

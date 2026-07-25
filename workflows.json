@@ -89,8 +89,8 @@
         {
           "id": "invoice-intake-001",
           "state": "draft",
-          "invoiceRef": "INV-NS-1048 — North Region — North Region",
-          "vendor": "Northstar Office Supply — North Region — North Region",
+          "invoiceRef": "INV-NS-1048 — North Region — North Region — North Region — North Region — North Region",
+          "vendor": "Northstar Office Supply — North Region — North Region — North Region — North Region — North Region",
           "invoiceDate": "2026-07-10",
           "amount": 2840.75,
           "source": "Manual"
@@ -98,127 +98,127 @@
         {
           "id": "invoice-intake-002",
           "state": "draft",
-          "invoiceRef": "INV-NS-1048 — Enterprise Account — Enterprise Account",
-          "vendor": "Northstar Office Supply — Enterprise Account — Enterprise Account",
-          "invoiceDate": "2026-07-12",
-          "amount": 2842.75,
+          "invoiceRef": "INV-NS-1048 — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
+          "vendor": "Northstar Office Supply — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
+          "invoiceDate": "2026-07-15",
+          "amount": 2845.75,
           "source": "Local upload"
         },
         {
           "id": "invoice-intake-003",
           "state": "draft",
-          "invoiceRef": "INV-NS-1048 — Quarterly Cycle — Quarterly Cycle",
-          "vendor": "Northstar Office Supply — Quarterly Cycle — Quarterly Cycle",
-          "invoiceDate": "2026-07-14",
-          "amount": 2844.75,
-          "source": "Configured provider"
-        },
-        {
-          "id": "invoice-intake-004",
-          "state": "draft",
-          "invoiceRef": "INV-NS-1048 — Priority Queue — Priority Queue",
-          "vendor": "Northstar Office Supply — Priority Queue — Priority Queue",
-          "invoiceDate": "2026-07-16",
-          "amount": 2846.75,
-          "source": "Manual"
-        },
-        {
-          "id": "invoice-intake-005",
-          "state": "draft",
-          "invoiceRef": "INV-NS-1048 — Operations Review — Operations Review",
-          "vendor": "Northstar Office Supply — Operations Review — Operations Review",
-          "invoiceDate": "2026-07-18",
-          "amount": 2848.75,
-          "source": "Local upload"
-        },
-        {
-          "id": "invoice-intake-006",
-          "state": "draft",
-          "invoiceRef": "INV-NS-1048 — Customer Request — Customer Request",
-          "vendor": "Northstar Office Supply — Customer Request — Customer Request",
+          "invoiceRef": "INV-NS-1048 — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
+          "vendor": "Northstar Office Supply — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "invoiceDate": "2026-07-20",
           "amount": 2850.75,
           "source": "Configured provider"
         },
         {
-          "id": "invoice-intake-007",
+          "id": "invoice-intake-004",
           "state": "draft",
-          "invoiceRef": "INV-NS-1048 — Compliance Check — Compliance Check",
-          "vendor": "Northstar Office Supply — Compliance Check — Compliance Check",
-          "invoiceDate": "2026-07-22",
-          "amount": 2852.75,
+          "invoiceRef": "INV-NS-1048 — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
+          "vendor": "Northstar Office Supply — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
+          "invoiceDate": "2026-07-25",
+          "amount": 2855.75,
           "source": "Manual"
         },
         {
-          "id": "invoice-intake-008",
+          "id": "invoice-intake-005",
           "state": "draft",
-          "invoiceRef": "INV-NS-1048 — Service Window — Service Window",
-          "vendor": "Northstar Office Supply — Service Window — Service Window",
-          "invoiceDate": "2026-07-24",
-          "amount": 2854.75,
-          "source": "Local upload"
-        },
-        {
-          "id": "invoice-intake-009",
-          "state": "draft",
-          "invoiceRef": "INV-NS-1048 — Quality Sample — Quality Sample",
-          "vendor": "Northstar Office Supply — Quality Sample — Quality Sample",
-          "invoiceDate": "2026-07-26",
-          "amount": 2856.75,
-          "source": "Configured provider"
-        },
-        {
-          "id": "invoice-intake-010",
-          "state": "draft",
-          "invoiceRef": "INV-NS-1048 — Management Review — Management Review",
-          "vendor": "Northstar Office Supply — Management Review — Management Review",
-          "invoiceDate": "2026-07-28",
-          "amount": 2858.75,
-          "source": "Manual"
-        },
-        {
-          "id": "invoice-intake-011",
-          "state": "draft",
-          "invoiceRef": "INV-NS-1048 — Exception Follow-up — Exception Follow-up",
-          "vendor": "Northstar Office Supply — Exception Follow-up — Exception Follow-up",
+          "invoiceRef": "INV-NS-1048 — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
+          "vendor": "Northstar Office Supply — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
           "invoiceDate": "2026-07-30",
           "amount": 2860.75,
           "source": "Local upload"
         },
         {
+          "id": "invoice-intake-006",
+          "state": "draft",
+          "invoiceRef": "INV-NS-1048 — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
+          "vendor": "Northstar Office Supply — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
+          "invoiceDate": "2026-08-04",
+          "amount": 2865.75,
+          "source": "Configured provider"
+        },
+        {
+          "id": "invoice-intake-007",
+          "state": "draft",
+          "invoiceRef": "INV-NS-1048 — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
+          "vendor": "Northstar Office Supply — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
+          "invoiceDate": "2026-08-09",
+          "amount": 2870.75,
+          "source": "Manual"
+        },
+        {
+          "id": "invoice-intake-008",
+          "state": "draft",
+          "invoiceRef": "INV-NS-1048 — Service Window — Service Window — Service Window — Service Window — Service Window",
+          "vendor": "Northstar Office Supply — Service Window — Service Window — Service Window — Service Window — Service Window",
+          "invoiceDate": "2026-08-14",
+          "amount": 2875.75,
+          "source": "Local upload"
+        },
+        {
+          "id": "invoice-intake-009",
+          "state": "draft",
+          "invoiceRef": "INV-NS-1048 — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
+          "vendor": "Northstar Office Supply — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
+          "invoiceDate": "2026-08-19",
+          "amount": 2880.75,
+          "source": "Configured provider"
+        },
+        {
+          "id": "invoice-intake-010",
+          "state": "draft",
+          "invoiceRef": "INV-NS-1048 — Management Review — Management Review — Management Review — Management Review — Management Review",
+          "vendor": "Northstar Office Supply — Management Review — Management Review — Management Review — Management Review — Management Review",
+          "invoiceDate": "2026-08-24",
+          "amount": 2885.75,
+          "source": "Manual"
+        },
+        {
+          "id": "invoice-intake-011",
+          "state": "draft",
+          "invoiceRef": "INV-NS-1048 — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
+          "vendor": "Northstar Office Supply — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
+          "invoiceDate": "2026-08-29",
+          "amount": 2890.75,
+          "source": "Local upload"
+        },
+        {
           "id": "invoice-intake-012",
           "state": "draft",
-          "invoiceRef": "INV-NS-1048 — Evidence Package — Evidence Package",
-          "vendor": "Northstar Office Supply — Evidence Package — Evidence Package",
-          "invoiceDate": "2026-08-01",
-          "amount": 2862.75,
+          "invoiceRef": "INV-NS-1048 — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
+          "vendor": "Northstar Office Supply — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
+          "invoiceDate": "2026-09-03",
+          "amount": 2895.75,
           "source": "Configured provider"
         },
         {
           "id": "invoice-intake-013",
           "state": "draft",
-          "invoiceRef": "INV-NS-1048 — Planning Cycle — Planning Cycle",
-          "vendor": "Northstar Office Supply — Planning Cycle — Planning Cycle",
-          "invoiceDate": "2026-08-03",
-          "amount": 2864.75,
+          "invoiceRef": "INV-NS-1048 — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
+          "vendor": "Northstar Office Supply — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
+          "invoiceDate": "2026-09-08",
+          "amount": 2900.75,
           "source": "Manual"
         },
         {
           "id": "invoice-intake-014",
           "state": "draft",
-          "invoiceRef": "INV-NS-1048 — Performance Review — Performance Review",
-          "vendor": "Northstar Office Supply — Performance Review — Performance Review",
-          "invoiceDate": "2026-08-05",
-          "amount": 2866.75,
+          "invoiceRef": "INV-NS-1048 — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
+          "vendor": "Northstar Office Supply — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
+          "invoiceDate": "2026-09-13",
+          "amount": 2905.75,
           "source": "Local upload"
         },
         {
           "id": "invoice-intake-015",
           "state": "draft",
-          "invoiceRef": "INV-NS-1048 — Final Verification — Final Verification",
-          "vendor": "Northstar Office Supply — Final Verification — Final Verification",
-          "invoiceDate": "2026-08-07",
-          "amount": 2868.75,
+          "invoiceRef": "INV-NS-1048 — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
+          "vendor": "Northstar Office Supply — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
+          "invoiceDate": "2026-09-18",
+          "amount": 2910.75,
           "source": "Configured provider"
         }
       ]
@@ -326,137 +326,137 @@
         {
           "id": "data-extraction-001",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — North Region — North Region",
+          "invoiceRef": "INV-NS-1048 — North Region — North Region — North Region — North Region — North Region",
           "documentType": "Invoice",
           "extractionMode": "Local template",
           "confidenceThreshold": 85.0,
-          "reviewer": "Jamie Soto — North Region — North Region"
+          "reviewer": "Jamie Soto — North Region — North Region — North Region — North Region — North Region"
         },
         {
           "id": "data-extraction-002",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Enterprise Account — Enterprise Account",
+          "invoiceRef": "INV-NS-1048 — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "documentType": "Credit memo",
           "extractionMode": "Manual keying",
-          "confidenceThreshold": 87.0,
-          "reviewer": "Jamie Soto — Enterprise Account — Enterprise Account"
+          "confidenceThreshold": 90.0,
+          "reviewer": "Jamie Soto — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account"
         },
         {
           "id": "data-extraction-003",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Quarterly Cycle — Quarterly Cycle",
+          "invoiceRef": "INV-NS-1048 — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "documentType": "Debit memo",
           "extractionMode": "Configured AI provider",
-          "confidenceThreshold": 89.0,
-          "reviewer": "Jamie Soto — Quarterly Cycle — Quarterly Cycle"
+          "confidenceThreshold": 95.0,
+          "reviewer": "Jamie Soto — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle"
         },
         {
           "id": "data-extraction-004",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Priority Queue — Priority Queue",
+          "invoiceRef": "INV-NS-1048 — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "documentType": "Receipt",
           "extractionMode": "Local template",
-          "confidenceThreshold": 91.0,
-          "reviewer": "Jamie Soto — Priority Queue — Priority Queue"
+          "confidenceThreshold": 100.0,
+          "reviewer": "Jamie Soto — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue"
         },
         {
           "id": "data-extraction-005",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Operations Review — Operations Review",
+          "invoiceRef": "INV-NS-1048 — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
           "documentType": "Invoice",
           "extractionMode": "Manual keying",
-          "confidenceThreshold": 93.0,
-          "reviewer": "Jamie Soto — Operations Review — Operations Review"
+          "confidenceThreshold": 105.0,
+          "reviewer": "Jamie Soto — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review"
         },
         {
           "id": "data-extraction-006",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Customer Request — Customer Request",
+          "invoiceRef": "INV-NS-1048 — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
           "documentType": "Credit memo",
           "extractionMode": "Configured AI provider",
-          "confidenceThreshold": 95.0,
-          "reviewer": "Jamie Soto — Customer Request — Customer Request"
+          "confidenceThreshold": 110.0,
+          "reviewer": "Jamie Soto — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request"
         },
         {
           "id": "data-extraction-007",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Compliance Check — Compliance Check",
+          "invoiceRef": "INV-NS-1048 — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "documentType": "Debit memo",
           "extractionMode": "Local template",
-          "confidenceThreshold": 97.0,
-          "reviewer": "Jamie Soto — Compliance Check — Compliance Check"
+          "confidenceThreshold": 115.0,
+          "reviewer": "Jamie Soto — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check"
         },
         {
           "id": "data-extraction-008",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Service Window — Service Window",
+          "invoiceRef": "INV-NS-1048 — Service Window — Service Window — Service Window — Service Window — Service Window",
           "documentType": "Receipt",
           "extractionMode": "Manual keying",
-          "confidenceThreshold": 99.0,
-          "reviewer": "Jamie Soto — Service Window — Service Window"
+          "confidenceThreshold": 120.0,
+          "reviewer": "Jamie Soto — Service Window — Service Window — Service Window — Service Window — Service Window"
         },
         {
           "id": "data-extraction-009",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Quality Sample — Quality Sample",
+          "invoiceRef": "INV-NS-1048 — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "documentType": "Invoice",
           "extractionMode": "Configured AI provider",
-          "confidenceThreshold": 101.0,
-          "reviewer": "Jamie Soto — Quality Sample — Quality Sample"
+          "confidenceThreshold": 125.0,
+          "reviewer": "Jamie Soto — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample"
         },
         {
           "id": "data-extraction-010",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Management Review — Management Review",
+          "invoiceRef": "INV-NS-1048 — Management Review — Management Review — Management Review — Management Review — Management Review",
           "documentType": "Credit memo",
           "extractionMode": "Local template",
-          "confidenceThreshold": 103.0,
-          "reviewer": "Jamie Soto — Management Review — Management Review"
+          "confidenceThreshold": 130.0,
+          "reviewer": "Jamie Soto — Management Review — Management Review — Management Review — Management Review — Management Review"
         },
         {
           "id": "data-extraction-011",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Exception Follow-up — Exception Follow-up",
+          "invoiceRef": "INV-NS-1048 — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "documentType": "Debit memo",
           "extractionMode": "Manual keying",
-          "confidenceThreshold": 105.0,
-          "reviewer": "Jamie Soto — Exception Follow-up — Exception Follow-up"
+          "confidenceThreshold": 135.0,
+          "reviewer": "Jamie Soto — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up"
         },
         {
           "id": "data-extraction-012",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Evidence Package — Evidence Package",
+          "invoiceRef": "INV-NS-1048 — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "documentType": "Receipt",
           "extractionMode": "Configured AI provider",
-          "confidenceThreshold": 107.0,
-          "reviewer": "Jamie Soto — Evidence Package — Evidence Package"
+          "confidenceThreshold": 140.0,
+          "reviewer": "Jamie Soto — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package"
         },
         {
           "id": "data-extraction-013",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Planning Cycle — Planning Cycle",
+          "invoiceRef": "INV-NS-1048 — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "documentType": "Invoice",
           "extractionMode": "Local template",
-          "confidenceThreshold": 109.0,
-          "reviewer": "Jamie Soto — Planning Cycle — Planning Cycle"
+          "confidenceThreshold": 145.0,
+          "reviewer": "Jamie Soto — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle"
         },
         {
           "id": "data-extraction-014",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Performance Review — Performance Review",
+          "invoiceRef": "INV-NS-1048 — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
           "documentType": "Credit memo",
           "extractionMode": "Manual keying",
-          "confidenceThreshold": 111.0,
-          "reviewer": "Jamie Soto — Performance Review — Performance Review"
+          "confidenceThreshold": 150.0,
+          "reviewer": "Jamie Soto — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review"
         },
         {
           "id": "data-extraction-015",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Final Verification — Final Verification",
+          "invoiceRef": "INV-NS-1048 — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
           "documentType": "Debit memo",
           "extractionMode": "Configured AI provider",
-          "confidenceThreshold": 113.0,
-          "reviewer": "Jamie Soto — Final Verification — Final Verification"
+          "confidenceThreshold": 155.0,
+          "reviewer": "Jamie Soto — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification"
         }
       ]
     },
@@ -556,8 +556,8 @@
         {
           "id": "duplicate-fraud-review-001",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — North Region — North Region",
-          "vendorRef": "VEND-204 — North Region — North Region",
+          "invoiceRef": "INV-NS-1048 — North Region — North Region — North Region — North Region — North Region",
+          "vendorRef": "VEND-204 — North Region — North Region — North Region — North Region — North Region",
           "analysisMode": "Local rules",
           "riskThreshold": 70.0,
           "analyst": "Avery Morgan"
@@ -565,127 +565,127 @@
         {
           "id": "duplicate-fraud-review-002",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Enterprise Account — Enterprise Account",
-          "vendorRef": "VEND-204 — Enterprise Account — Enterprise Account",
+          "invoiceRef": "INV-NS-1048 — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
+          "vendorRef": "VEND-204 — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "analysisMode": "Manual review",
-          "riskThreshold": 72.0,
+          "riskThreshold": 75.0,
           "analyst": "Jordan Lee"
         },
         {
           "id": "duplicate-fraud-review-003",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Quarterly Cycle — Quarterly Cycle",
-          "vendorRef": "VEND-204 — Quarterly Cycle — Quarterly Cycle",
+          "invoiceRef": "INV-NS-1048 — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
+          "vendorRef": "VEND-204 — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "analysisMode": "Configured AI provider",
-          "riskThreshold": 74.0,
+          "riskThreshold": 80.0,
           "analyst": "Taylor Brooks"
         },
         {
           "id": "duplicate-fraud-review-004",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Priority Queue — Priority Queue",
-          "vendorRef": "VEND-204 — Priority Queue — Priority Queue",
+          "invoiceRef": "INV-NS-1048 — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
+          "vendorRef": "VEND-204 — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "analysisMode": "Local rules",
-          "riskThreshold": 76.0,
+          "riskThreshold": 85.0,
           "analyst": "Morgan Chen"
         },
         {
           "id": "duplicate-fraud-review-005",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Operations Review — Operations Review",
-          "vendorRef": "VEND-204 — Operations Review — Operations Review",
+          "invoiceRef": "INV-NS-1048 — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
+          "vendorRef": "VEND-204 — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
           "analysisMode": "Manual review",
-          "riskThreshold": 78.0,
+          "riskThreshold": 90.0,
           "analyst": "Riley Patel"
         },
         {
           "id": "duplicate-fraud-review-006",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Customer Request — Customer Request",
-          "vendorRef": "VEND-204 — Customer Request — Customer Request",
+          "invoiceRef": "INV-NS-1048 — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
+          "vendorRef": "VEND-204 — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
           "analysisMode": "Configured AI provider",
-          "riskThreshold": 80.0,
+          "riskThreshold": 95.0,
           "analyst": "Casey Nguyen"
         },
         {
           "id": "duplicate-fraud-review-007",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Compliance Check — Compliance Check",
-          "vendorRef": "VEND-204 — Compliance Check — Compliance Check",
+          "invoiceRef": "INV-NS-1048 — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
+          "vendorRef": "VEND-204 — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "analysisMode": "Local rules",
-          "riskThreshold": 82.0,
+          "riskThreshold": 100.0,
           "analyst": "Cameron Diaz"
         },
         {
           "id": "duplicate-fraud-review-008",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Service Window — Service Window",
-          "vendorRef": "VEND-204 — Service Window — Service Window",
+          "invoiceRef": "INV-NS-1048 — Service Window — Service Window — Service Window — Service Window — Service Window",
+          "vendorRef": "VEND-204 — Service Window — Service Window — Service Window — Service Window — Service Window",
           "analysisMode": "Manual review",
-          "riskThreshold": 84.0,
+          "riskThreshold": 105.0,
           "analyst": "Drew Wilson"
         },
         {
           "id": "duplicate-fraud-review-009",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Quality Sample — Quality Sample",
-          "vendorRef": "VEND-204 — Quality Sample — Quality Sample",
+          "invoiceRef": "INV-NS-1048 — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
+          "vendorRef": "VEND-204 — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "analysisMode": "Configured AI provider",
-          "riskThreshold": 86.0,
+          "riskThreshold": 110.0,
           "analyst": "Emerson Clark"
         },
         {
           "id": "duplicate-fraud-review-010",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Management Review — Management Review",
-          "vendorRef": "VEND-204 — Management Review — Management Review",
+          "invoiceRef": "INV-NS-1048 — Management Review — Management Review — Management Review — Management Review — Management Review",
+          "vendorRef": "VEND-204 — Management Review — Management Review — Management Review — Management Review — Management Review",
           "analysisMode": "Local rules",
-          "riskThreshold": 88.0,
+          "riskThreshold": 115.0,
           "analyst": "Hayden Kim"
         },
         {
           "id": "duplicate-fraud-review-011",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Exception Follow-up — Exception Follow-up",
-          "vendorRef": "VEND-204 — Exception Follow-up — Exception Follow-up",
+          "invoiceRef": "INV-NS-1048 — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
+          "vendorRef": "VEND-204 — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "analysisMode": "Manual review",
-          "riskThreshold": 90.0,
+          "riskThreshold": 120.0,
           "analyst": "Jamie Rivera"
         },
         {
           "id": "duplicate-fraud-review-012",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Evidence Package — Evidence Package",
-          "vendorRef": "VEND-204 — Evidence Package — Evidence Package",
+          "invoiceRef": "INV-NS-1048 — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
+          "vendorRef": "VEND-204 — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "analysisMode": "Configured AI provider",
-          "riskThreshold": 92.0,
+          "riskThreshold": 125.0,
           "analyst": "Kai Thompson"
         },
         {
           "id": "duplicate-fraud-review-013",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Planning Cycle — Planning Cycle",
-          "vendorRef": "VEND-204 — Planning Cycle — Planning Cycle",
+          "invoiceRef": "INV-NS-1048 — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
+          "vendorRef": "VEND-204 — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "analysisMode": "Local rules",
-          "riskThreshold": 94.0,
+          "riskThreshold": 130.0,
           "analyst": "Logan Shah"
         },
         {
           "id": "duplicate-fraud-review-014",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Performance Review — Performance Review",
-          "vendorRef": "VEND-204 — Performance Review — Performance Review",
+          "invoiceRef": "INV-NS-1048 — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
+          "vendorRef": "VEND-204 — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
           "analysisMode": "Manual review",
-          "riskThreshold": 96.0,
+          "riskThreshold": 135.0,
           "analyst": "Parker Evans"
         },
         {
           "id": "duplicate-fraud-review-015",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Final Verification — Final Verification",
-          "vendorRef": "VEND-204 — Final Verification — Final Verification",
+          "invoiceRef": "INV-NS-1048 — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
+          "vendorRef": "VEND-204 — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
           "analysisMode": "Configured AI provider",
-          "riskThreshold": 98.0,
+          "riskThreshold": 140.0,
           "analyst": "Quinn Murphy"
         }
       ]
@@ -781,136 +781,136 @@
         {
           "id": "three-way-match-001",
           "state": "ready",
-          "invoiceRef": "INV-NS-1048 — North Region — North Region",
-          "purchaseOrderRef": "PO-2026-552 — North Region — North Region",
-          "receiptRef": "GR-2026-552-2 — North Region — North Region",
+          "invoiceRef": "INV-NS-1048 — North Region — North Region — North Region — North Region — North Region",
+          "purchaseOrderRef": "PO-2026-552 — North Region — North Region — North Region — North Region — North Region",
+          "receiptRef": "GR-2026-552-2 — North Region — North Region — North Region — North Region — North Region",
           "tolerancePct": 2.0,
           "owner": "Avery Morgan"
         },
         {
           "id": "three-way-match-002",
           "state": "ready",
-          "invoiceRef": "INV-NS-1048 — Enterprise Account — Enterprise Account",
-          "purchaseOrderRef": "PO-2026-552 — Enterprise Account — Enterprise Account",
-          "receiptRef": "GR-2026-552-2 — Enterprise Account — Enterprise Account",
-          "tolerancePct": 4.0,
+          "invoiceRef": "INV-NS-1048 — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
+          "purchaseOrderRef": "PO-2026-552 — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
+          "receiptRef": "GR-2026-552-2 — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
+          "tolerancePct": 7.0,
           "owner": "Jordan Lee"
         },
         {
           "id": "three-way-match-003",
           "state": "ready",
-          "invoiceRef": "INV-NS-1048 — Quarterly Cycle — Quarterly Cycle",
-          "purchaseOrderRef": "PO-2026-552 — Quarterly Cycle — Quarterly Cycle",
-          "receiptRef": "GR-2026-552-2 — Quarterly Cycle — Quarterly Cycle",
-          "tolerancePct": 6.0,
+          "invoiceRef": "INV-NS-1048 — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
+          "purchaseOrderRef": "PO-2026-552 — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
+          "receiptRef": "GR-2026-552-2 — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
+          "tolerancePct": 12.0,
           "owner": "Taylor Brooks"
         },
         {
           "id": "three-way-match-004",
           "state": "ready",
-          "invoiceRef": "INV-NS-1048 — Priority Queue — Priority Queue",
-          "purchaseOrderRef": "PO-2026-552 — Priority Queue — Priority Queue",
-          "receiptRef": "GR-2026-552-2 — Priority Queue — Priority Queue",
-          "tolerancePct": 8.0,
+          "invoiceRef": "INV-NS-1048 — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
+          "purchaseOrderRef": "PO-2026-552 — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
+          "receiptRef": "GR-2026-552-2 — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
+          "tolerancePct": 17.0,
           "owner": "Morgan Chen"
         },
         {
           "id": "three-way-match-005",
           "state": "ready",
-          "invoiceRef": "INV-NS-1048 — Operations Review — Operations Review",
-          "purchaseOrderRef": "PO-2026-552 — Operations Review — Operations Review",
-          "receiptRef": "GR-2026-552-2 — Operations Review — Operations Review",
-          "tolerancePct": 10.0,
+          "invoiceRef": "INV-NS-1048 — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
+          "purchaseOrderRef": "PO-2026-552 — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
+          "receiptRef": "GR-2026-552-2 — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
+          "tolerancePct": 22.0,
           "owner": "Riley Patel"
         },
         {
           "id": "three-way-match-006",
           "state": "ready",
-          "invoiceRef": "INV-NS-1048 — Customer Request — Customer Request",
-          "purchaseOrderRef": "PO-2026-552 — Customer Request — Customer Request",
-          "receiptRef": "GR-2026-552-2 — Customer Request — Customer Request",
-          "tolerancePct": 12.0,
+          "invoiceRef": "INV-NS-1048 — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
+          "purchaseOrderRef": "PO-2026-552 — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
+          "receiptRef": "GR-2026-552-2 — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
+          "tolerancePct": 27.0,
           "owner": "Casey Nguyen"
         },
         {
           "id": "three-way-match-007",
           "state": "ready",
-          "invoiceRef": "INV-NS-1048 — Compliance Check — Compliance Check",
-          "purchaseOrderRef": "PO-2026-552 — Compliance Check — Compliance Check",
-          "receiptRef": "GR-2026-552-2 — Compliance Check — Compliance Check",
-          "tolerancePct": 14.0,
+          "invoiceRef": "INV-NS-1048 — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
+          "purchaseOrderRef": "PO-2026-552 — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
+          "receiptRef": "GR-2026-552-2 — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
+          "tolerancePct": 32.0,
           "owner": "Cameron Diaz"
         },
         {
           "id": "three-way-match-008",
           "state": "ready",
-          "invoiceRef": "INV-NS-1048 — Service Window — Service Window",
-          "purchaseOrderRef": "PO-2026-552 — Service Window — Service Window",
-          "receiptRef": "GR-2026-552-2 — Service Window — Service Window",
-          "tolerancePct": 16.0,
+          "invoiceRef": "INV-NS-1048 — Service Window — Service Window — Service Window — Service Window — Service Window",
+          "purchaseOrderRef": "PO-2026-552 — Service Window — Service Window — Service Window — Service Window — Service Window",
+          "receiptRef": "GR-2026-552-2 — Service Window — Service Window — Service Window — Service Window — Service Window",
+          "tolerancePct": 37.0,
           "owner": "Drew Wilson"
         },
         {
           "id": "three-way-match-009",
           "state": "ready",
-          "invoiceRef": "INV-NS-1048 — Quality Sample — Quality Sample",
-          "purchaseOrderRef": "PO-2026-552 — Quality Sample — Quality Sample",
-          "receiptRef": "GR-2026-552-2 — Quality Sample — Quality Sample",
-          "tolerancePct": 18.0,
+          "invoiceRef": "INV-NS-1048 — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
+          "purchaseOrderRef": "PO-2026-552 — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
+          "receiptRef": "GR-2026-552-2 — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
+          "tolerancePct": 42.0,
           "owner": "Emerson Clark"
         },
         {
           "id": "three-way-match-010",
           "state": "ready",
-          "invoiceRef": "INV-NS-1048 — Management Review — Management Review",
-          "purchaseOrderRef": "PO-2026-552 — Management Review — Management Review",
-          "receiptRef": "GR-2026-552-2 — Management Review — Management Review",
-          "tolerancePct": 20.0,
+          "invoiceRef": "INV-NS-1048 — Management Review — Management Review — Management Review — Management Review — Management Review",
+          "purchaseOrderRef": "PO-2026-552 — Management Review — Management Review — Management Review — Management Review — Management Review",
+          "receiptRef": "GR-2026-552-2 — Management Review — Management Review — Management Review — Management Review — Management Review",
+          "tolerancePct": 47.0,
           "owner": "Hayden Kim"
         },
         {
           "id": "three-way-match-011",
           "state": "ready",
-          "invoiceRef": "INV-NS-1048 — Exception Follow-up — Exception Follow-up",
-          "purchaseOrderRef": "PO-2026-552 — Exception Follow-up — Exception Follow-up",
-          "receiptRef": "GR-2026-552-2 — Exception Follow-up — Exception Follow-up",
-          "tolerancePct": 22.0,
+          "invoiceRef": "INV-NS-1048 — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
+          "purchaseOrderRef": "PO-2026-552 — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
+          "receiptRef": "GR-2026-552-2 — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
+          "tolerancePct": 52.0,
           "owner": "Jamie Rivera"
         },
         {
           "id": "three-way-match-012",
           "state": "ready",
-          "invoiceRef": "INV-NS-1048 — Evidence Package — Evidence Package",
-          "purchaseOrderRef": "PO-2026-552 — Evidence Package — Evidence Package",
-          "receiptRef": "GR-2026-552-2 — Evidence Package — Evidence Package",
-          "tolerancePct": 24.0,
+          "invoiceRef": "INV-NS-1048 — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
+          "purchaseOrderRef": "PO-2026-552 — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
+          "receiptRef": "GR-2026-552-2 — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
+          "tolerancePct": 57.0,
           "owner": "Kai Thompson"
         },
         {
           "id": "three-way-match-013",
           "state": "ready",
-          "invoiceRef": "INV-NS-1048 — Planning Cycle — Planning Cycle",
-          "purchaseOrderRef": "PO-2026-552 — Planning Cycle — Planning Cycle",
-          "receiptRef": "GR-2026-552-2 — Planning Cycle — Planning Cycle",
-          "tolerancePct": 26.0,
+          "invoiceRef": "INV-NS-1048 — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
+          "purchaseOrderRef": "PO-2026-552 — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
+          "receiptRef": "GR-2026-552-2 — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
+          "tolerancePct": 62.0,
           "owner": "Logan Shah"
         },
         {
           "id": "three-way-match-014",
           "state": "ready",
-          "invoiceRef": "INV-NS-1048 — Performance Review — Performance Review",
-          "purchaseOrderRef": "PO-2026-552 — Performance Review — Performance Review",
-          "receiptRef": "GR-2026-552-2 — Performance Review — Performance Review",
-          "tolerancePct": 28.0,
+          "invoiceRef": "INV-NS-1048 — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
+          "purchaseOrderRef": "PO-2026-552 — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
+          "receiptRef": "GR-2026-552-2 — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
+          "tolerancePct": 67.0,
           "owner": "Parker Evans"
         },
         {
           "id": "three-way-match-015",
           "state": "ready",
-          "invoiceRef": "INV-NS-1048 — Final Verification — Final Verification",
-          "purchaseOrderRef": "PO-2026-552 — Final Verification — Final Verification",
-          "receiptRef": "GR-2026-552-2 — Final Verification — Final Verification",
-          "tolerancePct": 30.0,
+          "invoiceRef": "INV-NS-1048 — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
+          "purchaseOrderRef": "PO-2026-552 — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
+          "receiptRef": "GR-2026-552-2 — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
+          "tolerancePct": 72.0,
           "owner": "Quinn Murphy"
         }
       ]
@@ -1018,137 +1018,137 @@
         {
           "id": "policy-tax-validation-001",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — North Region — North Region",
+          "invoiceRef": "INV-NS-1048 — North Region — North Region — North Region — North Region — North Region",
           "policySet": "Operating expense",
-          "taxJurisdiction": "US-NY — North Region — North Region",
+          "taxJurisdiction": "US-NY — North Region — North Region — North Region — North Region — North Region",
           "currency": "USD",
-          "reviewer": "Finance Compliance — North Region — North Region"
+          "reviewer": "Finance Compliance — North Region — North Region — North Region — North Region — North Region"
         },
         {
           "id": "policy-tax-validation-002",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Enterprise Account — Enterprise Account",
+          "invoiceRef": "INV-NS-1048 — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "policySet": "Capital expense",
-          "taxJurisdiction": "US-NY — Enterprise Account — Enterprise Account",
+          "taxJurisdiction": "US-NY — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "currency": "CAD",
-          "reviewer": "Finance Compliance — Enterprise Account — Enterprise Account"
+          "reviewer": "Finance Compliance — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account"
         },
         {
           "id": "policy-tax-validation-003",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Quarterly Cycle — Quarterly Cycle",
+          "invoiceRef": "INV-NS-1048 — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "policySet": "Travel",
-          "taxJurisdiction": "US-NY — Quarterly Cycle — Quarterly Cycle",
+          "taxJurisdiction": "US-NY — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "currency": "EUR",
-          "reviewer": "Finance Compliance — Quarterly Cycle — Quarterly Cycle"
+          "reviewer": "Finance Compliance — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle"
         },
         {
           "id": "policy-tax-validation-004",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Priority Queue — Priority Queue",
+          "invoiceRef": "INV-NS-1048 — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "policySet": "Professional services",
-          "taxJurisdiction": "US-NY — Priority Queue — Priority Queue",
+          "taxJurisdiction": "US-NY — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "currency": "GBP",
-          "reviewer": "Finance Compliance — Priority Queue — Priority Queue"
+          "reviewer": "Finance Compliance — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue"
         },
         {
           "id": "policy-tax-validation-005",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Operations Review — Operations Review",
+          "invoiceRef": "INV-NS-1048 — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
           "policySet": "Operating expense",
-          "taxJurisdiction": "US-NY — Operations Review — Operations Review",
+          "taxJurisdiction": "US-NY — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
           "currency": "USD",
-          "reviewer": "Finance Compliance — Operations Review — Operations Review"
+          "reviewer": "Finance Compliance — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review"
         },
         {
           "id": "policy-tax-validation-006",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Customer Request — Customer Request",
+          "invoiceRef": "INV-NS-1048 — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
           "policySet": "Capital expense",
-          "taxJurisdiction": "US-NY — Customer Request — Customer Request",
+          "taxJurisdiction": "US-NY — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
           "currency": "CAD",
-          "reviewer": "Finance Compliance — Customer Request — Customer Request"
+          "reviewer": "Finance Compliance — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request"
         },
         {
           "id": "policy-tax-validation-007",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Compliance Check — Compliance Check",
+          "invoiceRef": "INV-NS-1048 — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "policySet": "Travel",
-          "taxJurisdiction": "US-NY — Compliance Check — Compliance Check",
+          "taxJurisdiction": "US-NY — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "currency": "EUR",
-          "reviewer": "Finance Compliance — Compliance Check — Compliance Check"
+          "reviewer": "Finance Compliance — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check"
         },
         {
           "id": "policy-tax-validation-008",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Service Window — Service Window",
+          "invoiceRef": "INV-NS-1048 — Service Window — Service Window — Service Window — Service Window — Service Window",
           "policySet": "Professional services",
-          "taxJurisdiction": "US-NY — Service Window — Service Window",
+          "taxJurisdiction": "US-NY — Service Window — Service Window — Service Window — Service Window — Service Window",
           "currency": "GBP",
-          "reviewer": "Finance Compliance — Service Window — Service Window"
+          "reviewer": "Finance Compliance — Service Window — Service Window — Service Window — Service Window — Service Window"
         },
         {
           "id": "policy-tax-validation-009",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Quality Sample — Quality Sample",
+          "invoiceRef": "INV-NS-1048 — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "policySet": "Operating expense",
-          "taxJurisdiction": "US-NY — Quality Sample — Quality Sample",
+          "taxJurisdiction": "US-NY — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "currency": "USD",
-          "reviewer": "Finance Compliance — Quality Sample — Quality Sample"
+          "reviewer": "Finance Compliance — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample"
         },
         {
           "id": "policy-tax-validation-010",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Management Review — Management Review",
+          "invoiceRef": "INV-NS-1048 — Management Review — Management Review — Management Review — Management Review — Management Review",
           "policySet": "Capital expense",
-          "taxJurisdiction": "US-NY — Management Review — Management Review",
+          "taxJurisdiction": "US-NY — Management Review — Management Review — Management Review — Management Review — Management Review",
           "currency": "CAD",
-          "reviewer": "Finance Compliance — Management Review — Management Review"
+          "reviewer": "Finance Compliance — Management Review — Management Review — Management Review — Management Review — Management Review"
         },
         {
           "id": "policy-tax-validation-011",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Exception Follow-up — Exception Follow-up",
+          "invoiceRef": "INV-NS-1048 — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "policySet": "Travel",
-          "taxJurisdiction": "US-NY — Exception Follow-up — Exception Follow-up",
+          "taxJurisdiction": "US-NY — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "currency": "EUR",
-          "reviewer": "Finance Compliance — Exception Follow-up — Exception Follow-up"
+          "reviewer": "Finance Compliance — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up"
         },
         {
           "id": "policy-tax-validation-012",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Evidence Package — Evidence Package",
+          "invoiceRef": "INV-NS-1048 — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "policySet": "Professional services",
-          "taxJurisdiction": "US-NY — Evidence Package — Evidence Package",
+          "taxJurisdiction": "US-NY — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "currency": "GBP",
-          "reviewer": "Finance Compliance — Evidence Package — Evidence Package"
+          "reviewer": "Finance Compliance — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package"
         },
         {
           "id": "policy-tax-validation-013",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Planning Cycle — Planning Cycle",
+          "invoiceRef": "INV-NS-1048 — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "policySet": "Operating expense",
-          "taxJurisdiction": "US-NY — Planning Cycle — Planning Cycle",
+          "taxJurisdiction": "US-NY — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "currency": "USD",
-          "reviewer": "Finance Compliance — Planning Cycle — Planning Cycle"
+          "reviewer": "Finance Compliance — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle"
         },
         {
           "id": "policy-tax-validation-014",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Performance Review — Performance Review",
+          "invoiceRef": "INV-NS-1048 — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
           "policySet": "Capital expense",
-          "taxJurisdiction": "US-NY — Performance Review — Performance Review",
+          "taxJurisdiction": "US-NY — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
           "currency": "CAD",
-          "reviewer": "Finance Compliance — Performance Review — Performance Review"
+          "reviewer": "Finance Compliance — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review"
         },
         {
           "id": "policy-tax-validation-015",
           "state": "queued",
-          "invoiceRef": "INV-NS-1048 — Final Verification — Final Verification",
+          "invoiceRef": "INV-NS-1048 — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
           "policySet": "Travel",
-          "taxJurisdiction": "US-NY — Final Verification — Final Verification",
+          "taxJurisdiction": "US-NY — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
           "currency": "EUR",
-          "reviewer": "Finance Compliance — Final Verification — Final Verification"
+          "reviewer": "Finance Compliance — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification"
         }
       ]
     },
@@ -1251,136 +1251,136 @@
         {
           "id": "approval-routing-001",
           "state": "pending",
-          "invoiceRef": "INV-NS-1048 — North Region — North Region",
-          "department": "Operations — North Region — North Region",
+          "invoiceRef": "INV-NS-1048 — North Region — North Region — North Region — North Region — North Region",
+          "department": "Operations — North Region — North Region — North Region — North Region — North Region",
           "amount": 2840.75,
-          "approver": "Operations Manager — North Region — North Region",
+          "approver": "Operations Manager — North Region — North Region — North Region — North Region — North Region",
           "priority": "Standard"
         },
         {
           "id": "approval-routing-002",
           "state": "pending",
-          "invoiceRef": "INV-NS-1048 — Enterprise Account — Enterprise Account",
-          "department": "Operations — Enterprise Account — Enterprise Account",
-          "amount": 2842.75,
-          "approver": "Operations Manager — Enterprise Account — Enterprise Account",
+          "invoiceRef": "INV-NS-1048 — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
+          "department": "Operations — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
+          "amount": 2845.75,
+          "approver": "Operations Manager — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "priority": "High"
         },
         {
           "id": "approval-routing-003",
           "state": "pending",
-          "invoiceRef": "INV-NS-1048 — Quarterly Cycle — Quarterly Cycle",
-          "department": "Operations — Quarterly Cycle — Quarterly Cycle",
-          "amount": 2844.75,
-          "approver": "Operations Manager — Quarterly Cycle — Quarterly Cycle",
+          "invoiceRef": "INV-NS-1048 — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
+          "department": "Operations — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
+          "amount": 2850.75,
+          "approver": "Operations Manager — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "priority": "Urgent"
         },
         {
           "id": "approval-routing-004",
           "state": "pending",
-          "invoiceRef": "INV-NS-1048 — Priority Queue — Priority Queue",
-          "department": "Operations — Priority Queue — Priority Queue",
-          "amount": 2846.75,
-          "approver": "Operations Manager — Priority Queue — Priority Queue",
+          "invoiceRef": "INV-NS-1048 — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
+          "department": "Operations — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
+          "amount": 2855.75,
+          "approver": "Operations Manager — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "priority": "Standard"
         },
         {
           "id": "approval-routing-005",
           "state": "pending",
-          "invoiceRef": "INV-NS-1048 — Operations Review — Operations Review",
-          "department": "Operations — Operations Review — Operations Review",
-          "amount": 2848.75,
-          "approver": "Operations Manager — Operations Review — Operations Review",
+          "invoiceRef": "INV-NS-1048 — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
+          "department": "Operations — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
+          "amount": 2860.75,
+          "approver": "Operations Manager — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
           "priority": "High"
         },
         {
           "id": "approval-routing-006",
           "state": "pending",
-          "invoiceRef": "INV-NS-1048 — Customer Request — Customer Request",
-          "department": "Operations — Customer Request — Customer Request",
-          "amount": 2850.75,
-          "approver": "Operations Manager — Customer Request — Customer Request",
+          "invoiceRef": "INV-NS-1048 — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
+          "department": "Operations — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
+          "amount": 2865.75,
+          "approver": "Operations Manager — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
           "priority": "Urgent"
         },
         {
           "id": "approval-routing-007",
           "state": "pending",
-          "invoiceRef": "INV-NS-1048 — Compliance Check — Compliance Check",
-          "department": "Operations — Compliance Check — Compliance Check",
-          "amount": 2852.75,
-          "approver": "Operations Manager — Compliance Check — Compliance Check",
+          "invoiceRef": "INV-NS-1048 — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
+          "department": "Operations — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
+          "amount": 2870.75,
+          "approver": "Operations Manager — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "priority": "Standard"
         },
         {
           "id": "approval-routing-008",
           "state": "pending",
-          "invoiceRef": "INV-NS-1048 — Service Window — Service Window",
-          "department": "Operations — Service Window — Service Window",
-          "amount": 2854.75,
-          "approver": "Operations Manager — Service Window — Service Window",
+          "invoiceRef": "INV-NS-1048 — Service Window — Service Window — Service Window — Service Window — Service Window",
+          "department": "Operations — Service Window — Service Window — Service Window — Service Window — Service Window",
+          "amount": 2875.75,
+          "approver": "Operations Manager — Service Window — Service Window — Service Window — Service Window — Service Window",
           "priority": "High"
         },
         {
           "id": "approval-routing-009",
           "state": "pending",
-          "invoiceRef": "INV-NS-1048 — Quality Sample — Quality Sample",
-          "department": "Operations — Quality Sample — Quality Sample",
-          "amount": 2856.75,
-          "approver": "Operations Manager — Quality Sample — Quality Sample",
+          "invoiceRef": "INV-NS-1048 — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
+          "department": "Operations — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
+          "amount": 2880.75,
+          "approver": "Operations Manager — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "priority": "Urgent"
         },
         {
           "id": "approval-routing-010",
           "state": "pending",
-          "invoiceRef": "INV-NS-1048 — Management Review — Management Review",
-          "department": "Operations — Management Review — Management Review",
-          "amount": 2858.75,
-          "approver": "Operations Manager — Management Review — Management Review",
+          "invoiceRef": "INV-NS-1048 — Management Review — Management Review — Management Review — Management Review — Management Review",
+          "department": "Operations — Management Review — Management Review — Management Review — Management Review — Management Review",
+          "amount": 2885.75,
+          "approver": "Operations Manager — Management Review — Management Review — Management Review — Management Review — Management Review",
           "priority": "Standard"
         },
         {
           "id": "approval-routing-011",
           "state": "pending",
-          "invoiceRef": "INV-NS-1048 — Exception Follow-up — Exception Follow-up",
-          "department": "Operations — Exception Follow-up — Exception Follow-up",
-          "amount": 2860.75,
-          "approver": "Operations Manager — Exception Follow-up — Exception Follow-up",
+          "invoiceRef": "INV-NS-1048 — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
+          "department": "Operations — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
+          "amount": 2890.75,
+          "approver": "Operations Manager — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "priority": "High"
         },
         {
           "id": "approval-routing-012",
           "state": "pending",
-          "invoiceRef": "INV-NS-1048 — Evidence Package — Evidence Package",
-          "department": "Operations — Evidence Package — Evidence Package",
-          "amount": 2862.75,
-          "approver": "Operations Manager — Evidence Package — Evidence Package",
+          "invoiceRef": "INV-NS-1048 — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
+          "department": "Operations — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
+          "amount": 2895.75,
+          "approver": "Operations Manager — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "priority": "Urgent"
         },
         {
           "id": "approval-routing-013",
           "state": "pending",
-          "invoiceRef": "INV-NS-1048 — Planning Cycle — Planning Cycle",
-          "department": "Operations — Planning Cycle — Planning Cycle",
-          "amount": 2864.75,
-          "approver": "Operations Manager — Planning Cycle — Planning Cycle",
+          "invoiceRef": "INV-NS-1048 — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
+          "department": "Operations — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
+          "amount": 2900.75,
+          "approver": "Operations Manager — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "priority": "Standard"
         },
         {
           "id": "approval-routing-014",
           "state": "pending",
-          "invoiceRef": "INV-NS-1048 — Performance Review — Performance Review",
-          "department": "Operations — Performance Review — Performance Review",
-          "amount": 2866.75,
-          "approver": "Operations Manager — Performance Review — Performance Review",
+          "invoiceRef": "INV-NS-1048 — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
+          "department": "Operations — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
+          "amount": 2905.75,
+          "approver": "Operations Manager — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
           "priority": "High"
         },
         {
           "id": "approval-routing-015",
           "state": "pending",
-          "invoiceRef": "INV-NS-1048 — Final Verification — Final Verification",
-          "department": "Operations — Final Verification — Final Verification",
-          "amount": 2868.75,
-          "approver": "Operations Manager — Final Verification — Final Verification",
+          "invoiceRef": "INV-NS-1048 — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
+          "department": "Operations — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
+          "amount": 2910.75,
+          "approver": "Operations Manager — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
           "priority": "Urgent"
         }
       ]
@@ -1495,7 +1495,7 @@
         {
           "id": "payment-delivery-001",
           "state": "scheduled",
-          "invoiceRef": "INV-NS-1048 — North Region — North Region",
+          "invoiceRef": "INV-NS-1048 — North Region — North Region — North Region — North Region — North Region",
           "paymentDate": "2026-07-24",
           "amount": 2840.75,
           "deliveryMethod": "Local payment file",
@@ -1504,126 +1504,126 @@
         {
           "id": "payment-delivery-002",
           "state": "scheduled",
-          "invoiceRef": "INV-NS-1048 — Enterprise Account — Enterprise Account",
-          "paymentDate": "2026-07-26",
-          "amount": 2842.75,
+          "invoiceRef": "INV-NS-1048 — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
+          "paymentDate": "2026-07-29",
+          "amount": 2845.75,
           "deliveryMethod": "Manual bank entry",
           "providerStatus": "Not configured"
         },
         {
           "id": "payment-delivery-003",
           "state": "scheduled",
-          "invoiceRef": "INV-NS-1048 — Quarterly Cycle — Quarterly Cycle",
-          "paymentDate": "2026-07-28",
-          "amount": 2844.75,
-          "deliveryMethod": "Configured payment provider",
-          "providerStatus": "Configured"
-        },
-        {
-          "id": "payment-delivery-004",
-          "state": "scheduled",
-          "invoiceRef": "INV-NS-1048 — Priority Queue — Priority Queue",
-          "paymentDate": "2026-07-30",
-          "amount": 2846.75,
-          "deliveryMethod": "Local payment file",
-          "providerStatus": "Not required"
-        },
-        {
-          "id": "payment-delivery-005",
-          "state": "scheduled",
-          "invoiceRef": "INV-NS-1048 — Operations Review — Operations Review",
-          "paymentDate": "2026-08-01",
-          "amount": 2848.75,
-          "deliveryMethod": "Manual bank entry",
-          "providerStatus": "Not configured"
-        },
-        {
-          "id": "payment-delivery-006",
-          "state": "scheduled",
-          "invoiceRef": "INV-NS-1048 — Customer Request — Customer Request",
+          "invoiceRef": "INV-NS-1048 — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "paymentDate": "2026-08-03",
           "amount": 2850.75,
           "deliveryMethod": "Configured payment provider",
           "providerStatus": "Configured"
         },
         {
-          "id": "payment-delivery-007",
+          "id": "payment-delivery-004",
           "state": "scheduled",
-          "invoiceRef": "INV-NS-1048 — Compliance Check — Compliance Check",
-          "paymentDate": "2026-08-05",
-          "amount": 2852.75,
+          "invoiceRef": "INV-NS-1048 — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
+          "paymentDate": "2026-08-08",
+          "amount": 2855.75,
           "deliveryMethod": "Local payment file",
           "providerStatus": "Not required"
         },
         {
-          "id": "payment-delivery-008",
+          "id": "payment-delivery-005",
           "state": "scheduled",
-          "invoiceRef": "INV-NS-1048 — Service Window — Service Window",
-          "paymentDate": "2026-08-07",
-          "amount": 2854.75,
-          "deliveryMethod": "Manual bank entry",
-          "providerStatus": "Not configured"
-        },
-        {
-          "id": "payment-delivery-009",
-          "state": "scheduled",
-          "invoiceRef": "INV-NS-1048 — Quality Sample — Quality Sample",
-          "paymentDate": "2026-08-09",
-          "amount": 2856.75,
-          "deliveryMethod": "Configured payment provider",
-          "providerStatus": "Configured"
-        },
-        {
-          "id": "payment-delivery-010",
-          "state": "scheduled",
-          "invoiceRef": "INV-NS-1048 — Management Review — Management Review",
-          "paymentDate": "2026-08-11",
-          "amount": 2858.75,
-          "deliveryMethod": "Local payment file",
-          "providerStatus": "Not required"
-        },
-        {
-          "id": "payment-delivery-011",
-          "state": "scheduled",
-          "invoiceRef": "INV-NS-1048 — Exception Follow-up — Exception Follow-up",
+          "invoiceRef": "INV-NS-1048 — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
           "paymentDate": "2026-08-13",
           "amount": 2860.75,
           "deliveryMethod": "Manual bank entry",
           "providerStatus": "Not configured"
         },
         {
+          "id": "payment-delivery-006",
+          "state": "scheduled",
+          "invoiceRef": "INV-NS-1048 — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
+          "paymentDate": "2026-08-18",
+          "amount": 2865.75,
+          "deliveryMethod": "Configured payment provider",
+          "providerStatus": "Configured"
+        },
+        {
+          "id": "payment-delivery-007",
+          "state": "scheduled",
+          "invoiceRef": "INV-NS-1048 — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
+          "paymentDate": "2026-08-23",
+          "amount": 2870.75,
+          "deliveryMethod": "Local payment file",
+          "providerStatus": "Not required"
+        },
+        {
+          "id": "payment-delivery-008",
+          "state": "scheduled",
+          "invoiceRef": "INV-NS-1048 — Service Window — Service Window — Service Window — Service Window — Service Window",
+          "paymentDate": "2026-08-28",
+          "amount": 2875.75,
+          "deliveryMethod": "Manual bank entry",
+          "providerStatus": "Not configured"
+        },
+        {
+          "id": "payment-delivery-009",
+          "state": "scheduled",
+          "invoiceRef": "INV-NS-1048 — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
+          "paymentDate": "2026-09-02",
+          "amount": 2880.75,
+          "deliveryMethod": "Configured payment provider",
+          "providerStatus": "Configured"
+        },
+        {
+          "id": "payment-delivery-010",
+          "state": "scheduled",
+          "invoiceRef": "INV-NS-1048 — Management Review — Management Review — Management Review — Management Review — Management Review",
+          "paymentDate": "2026-09-07",
+          "amount": 2885.75,
+          "deliveryMethod": "Local payment file",
+          "providerStatus": "Not required"
+        },
+        {
+          "id": "payment-delivery-011",
+          "state": "scheduled",
+          "invoiceRef": "INV-NS-1048 — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
+          "paymentDate": "2026-09-12",
+          "amount": 2890.75,
+          "deliveryMethod": "Manual bank entry",
+          "providerStatus": "Not configured"
+        },
+        {
           "id": "payment-delivery-012",
           "state": "scheduled",
-          "invoiceRef": "INV-NS-1048 — Evidence Package — Evidence Package",
-          "paymentDate": "2026-08-15",
-          "amount": 2862.75,
+          "invoiceRef": "INV-NS-1048 — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
+          "paymentDate": "2026-09-17",
+          "amount": 2895.75,
           "deliveryMethod": "Configured payment provider",
           "providerStatus": "Configured"
         },
         {
           "id": "payment-delivery-013",
           "state": "scheduled",
-          "invoiceRef": "INV-NS-1048 — Planning Cycle — Planning Cycle",
-          "paymentDate": "2026-08-17",
-          "amount": 2864.75,
+          "invoiceRef": "INV-NS-1048 — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
+          "paymentDate": "2026-09-22",
+          "amount": 2900.75,
           "deliveryMethod": "Local payment file",
           "providerStatus": "Not required"
         },
         {
           "id": "payment-delivery-014",
           "state": "scheduled",
-          "invoiceRef": "INV-NS-1048 — Performance Review — Performance Review",
-          "paymentDate": "2026-08-19",
-          "amount": 2866.75,
+          "invoiceRef": "INV-NS-1048 — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
+          "paymentDate": "2026-09-27",
+          "amount": 2905.75,
           "deliveryMethod": "Manual bank entry",
           "providerStatus": "Not configured"
         },
         {
           "id": "payment-delivery-015",
           "state": "scheduled",
-          "invoiceRef": "INV-NS-1048 — Final Verification — Final Verification",
-          "paymentDate": "2026-08-21",
-          "amount": 2868.75,
+          "invoiceRef": "INV-NS-1048 — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
+          "paymentDate": "2026-10-02",
+          "amount": 2910.75,
           "deliveryMethod": "Configured payment provider",
           "providerStatus": "Configured"
         }
@@ -1730,7 +1730,7 @@
         {
           "id": "reconciliation-reporting-001",
           "state": "configured",
-          "period": "2026-06 — North Region — North Region",
+          "period": "2026-06 — North Region — North Region — North Region — North Region — North Region",
           "ledgerSource": "Local ledger fixture",
           "varianceThreshold": 1.0,
           "format": "PDF",
@@ -1739,126 +1739,126 @@
         {
           "id": "reconciliation-reporting-002",
           "state": "configured",
-          "period": "2026-06 — Enterprise Account — Enterprise Account",
+          "period": "2026-06 — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "ledgerSource": "Manual upload",
-          "varianceThreshold": 3.0,
+          "varianceThreshold": 6.0,
           "format": "CSV",
           "owner": "Jordan Lee"
         },
         {
           "id": "reconciliation-reporting-003",
           "state": "configured",
-          "period": "2026-06 — Quarterly Cycle — Quarterly Cycle",
+          "period": "2026-06 — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "ledgerSource": "Configured ERP",
-          "varianceThreshold": 5.0,
+          "varianceThreshold": 11.0,
           "format": "JSON",
           "owner": "Taylor Brooks"
         },
         {
           "id": "reconciliation-reporting-004",
           "state": "configured",
-          "period": "2026-06 — Priority Queue — Priority Queue",
+          "period": "2026-06 — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "ledgerSource": "Local ledger fixture",
-          "varianceThreshold": 7.0,
+          "varianceThreshold": 16.0,
           "format": "PDF",
           "owner": "Morgan Chen"
         },
         {
           "id": "reconciliation-reporting-005",
           "state": "configured",
-          "period": "2026-06 — Operations Review — Operations Review",
+          "period": "2026-06 — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
           "ledgerSource": "Manual upload",
-          "varianceThreshold": 9.0,
+          "varianceThreshold": 21.0,
           "format": "CSV",
           "owner": "Riley Patel"
         },
         {
           "id": "reconciliation-reporting-006",
           "state": "configured",
-          "period": "2026-06 — Customer Request — Customer Request",
+          "period": "2026-06 — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
           "ledgerSource": "Configured ERP",
-          "varianceThreshold": 11.0,
+          "varianceThreshold": 26.0,
           "format": "JSON",
           "owner": "Casey Nguyen"
         },
         {
           "id": "reconciliation-reporting-007",
           "state": "configured",
-          "period": "2026-06 — Compliance Check — Compliance Check",
+          "period": "2026-06 — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "ledgerSource": "Local ledger fixture",
-          "varianceThreshold": 13.0,
+          "varianceThreshold": 31.0,
           "format": "PDF",
           "owner": "Cameron Diaz"
         },
         {
           "id": "reconciliation-reporting-008",
           "state": "configured",
-          "period": "2026-06 — Service Window — Service Window",
+          "period": "2026-06 — Service Window — Service Window — Service Window — Service Window — Service Window",
           "ledgerSource": "Manual upload",
-          "varianceThreshold": 15.0,
+          "varianceThreshold": 36.0,
           "format": "CSV",
           "owner": "Drew Wilson"
         },
         {
           "id": "reconciliation-reporting-009",
           "state": "configured",
-          "period": "2026-06 — Quality Sample — Quality Sample",
+          "period": "2026-06 — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "ledgerSource": "Configured ERP",
-          "varianceThreshold": 17.0,
+          "varianceThreshold": 41.0,
           "format": "JSON",
           "owner": "Emerson Clark"
         },
         {
           "id": "reconciliation-reporting-010",
           "state": "configured",
-          "period": "2026-06 — Management Review — Management Review",
+          "period": "2026-06 — Management Review — Management Review — Management Review — Management Review — Management Review",
           "ledgerSource": "Local ledger fixture",
-          "varianceThreshold": 19.0,
+          "varianceThreshold": 46.0,
           "format": "PDF",
           "owner": "Hayden Kim"
         },
         {
           "id": "reconciliation-reporting-011",
           "state": "configured",
-          "period": "2026-06 — Exception Follow-up — Exception Follow-up",
+          "period": "2026-06 — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "ledgerSource": "Manual upload",
-          "varianceThreshold": 21.0,
+          "varianceThreshold": 51.0,
           "format": "CSV",
           "owner": "Jamie Rivera"
         },
         {
           "id": "reconciliation-reporting-012",
           "state": "configured",
-          "period": "2026-06 — Evidence Package — Evidence Package",
+          "period": "2026-06 — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "ledgerSource": "Configured ERP",
-          "varianceThreshold": 23.0,
+          "varianceThreshold": 56.0,
           "format": "JSON",
           "owner": "Kai Thompson"
         },
         {
           "id": "reconciliation-reporting-013",
           "state": "configured",
-          "period": "2026-06 — Planning Cycle — Planning Cycle",
+          "period": "2026-06 — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "ledgerSource": "Local ledger fixture",
-          "varianceThreshold": 25.0,
+          "varianceThreshold": 61.0,
           "format": "PDF",
           "owner": "Logan Shah"
         },
         {
           "id": "reconciliation-reporting-014",
           "state": "configured",
-          "period": "2026-06 — Performance Review — Performance Review",
+          "period": "2026-06 — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
           "ledgerSource": "Manual upload",
-          "varianceThreshold": 27.0,
+          "varianceThreshold": 66.0,
           "format": "CSV",
           "owner": "Parker Evans"
         },
         {
           "id": "reconciliation-reporting-015",
           "state": "configured",
-          "period": "2026-06 — Final Verification — Final Verification",
+          "period": "2026-06 — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
           "ledgerSource": "Configured ERP",
-          "varianceThreshold": 29.0,
+          "varianceThreshold": 71.0,
           "format": "JSON",
           "owner": "Quinn Murphy"
         }

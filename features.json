@@ -333,6 +333,48 @@
     ]
   },
   {
+    "name": "AI Center",
+    "canonicalKey": "ai",
+    "aliases": [],
+    "kinds": [
+      "ai-page",
+      "page"
+    ],
+    "routes": [
+      "/AICenter",
+      "/ai-center"
+    ],
+    "sourceProjects": [
+      "AIForensicAccountingInvestigator"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/invoice-processing"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIForensicAccountingInvestigator",
+        "path": "frontend/src/pages/AICenter.js:1",
+        "route": "/ai-center",
+        "originApp": "financial-services/invoice-processing"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIForensicAccountingInvestigator",
+        "path": "frontend/src/App.js:164",
+        "route": "/ai-center",
+        "originApp": "financial-services/invoice-processing"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIForensicAccountingInvestigator",
+        "path": "frontend/src/pages/AICenter.js",
+        "route": "/AICenter",
+        "originApp": "financial-services/invoice-processing"
+      }
+    ]
+  },
+  {
     "name": "AI Cost Optimization",
     "canonicalKey": "ai cost optimization",
     "aliases": [],
@@ -3651,6 +3693,32 @@
     ]
   },
   {
+    "name": "Embezzlement Pattern Recognition",
+    "canonicalKey": "embezzlement pattern recognition",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/embezzlement"
+    ],
+    "sourceProjects": [
+      "AIForensicAccountingInvestigator"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/invoice-processing"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIForensicAccountingInvestigator",
+        "path": "frontend/src/pages/EmbezzlementPatterns.js:1",
+        "route": "/embezzlement",
+        "originApp": "financial-services/invoice-processing"
+      }
+    ]
+  },
+  {
     "name": "Embezzlement Patterns",
     "canonicalKey": "embezzlement pattern",
     "aliases": [],
@@ -4259,6 +4327,32 @@
         "sourceProject": "AiTaxPrep",
         "path": "client/src/App.js:6292",
         "route": "/filing-scenario-compare",
+        "originApp": "financial-services/invoice-processing"
+      }
+    ]
+  },
+  {
+    "name": "Financial Statement Fraud Scoring",
+    "canonicalKey": "financial fraud scoring statement",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/fraud"
+    ],
+    "sourceProjects": [
+      "AIForensicAccountingInvestigator"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/invoice-processing"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIForensicAccountingInvestigator",
+        "path": "frontend/src/pages/FraudScoring.js:1",
+        "route": "/fraud",
         "originApp": "financial-services/invoice-processing"
       }
     ]
@@ -8560,6 +8654,32 @@
         "sourceProject": "AIInvoiceProcessing",
         "path": "server/index.js:334",
         "route": "/api/invoices/:id/three-way-match",
+        "originApp": "financial-services/invoice-processing"
+      }
+    ]
+  },
+  {
+    "name": "Transaction Anomaly Detection",
+    "canonicalKey": "anomaly detection transaction",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/anomalies"
+    ],
+    "sourceProjects": [
+      "AIForensicAccountingInvestigator"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/invoice-processing"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIForensicAccountingInvestigator",
+        "path": "frontend/src/pages/AnomalyDetection.js:1",
+        "route": "/anomalies",
         "originApp": "financial-services/invoice-processing"
       }
     ]
