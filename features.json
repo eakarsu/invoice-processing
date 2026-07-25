@@ -1,5 +1,130 @@
 [
   {
+    "name": "Activity",
+    "canonicalKey": "activity",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/activity"
+    ],
+    "sourceProjects": [
+      "AiTaxPrep"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/invoice-processing"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AiTaxPrep",
+        "path": "server/routes/dashboard.js:168",
+        "route": "/activity",
+        "originApp": "financial-services/invoice-processing"
+      }
+    ]
+  },
+  {
+    "name": "Admin Tools",
+    "canonicalKey": "admin",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/ai/admin-tools"
+    ],
+    "sourceProjects": [
+      "AIExpenseReportAuditor"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/invoice-processing"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIExpenseReportAuditor",
+        "path": "client/src/App.jsx:233",
+        "route": "/ai/admin-tools",
+        "originApp": "financial-services/invoice-processing"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIExpenseReportAuditor",
+        "path": "client/src/App.jsx:99",
+        "route": "/ai/admin-tools",
+        "originApp": "financial-services/invoice-processing"
+      }
+    ]
+  },
+  {
+    "name": "Advice",
+    "canonicalKey": "advice",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/advice"
+    ],
+    "sourceProjects": [
+      "AiTaxPrep"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/invoice-processing"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AiTaxPrep",
+        "path": "client/src/App.js:425",
+        "route": "/advice",
+        "originApp": "financial-services/invoice-processing"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AiTaxPrep",
+        "path": "client/src/App.js:6280",
+        "route": "/advice",
+        "originApp": "financial-services/invoice-processing"
+      }
+    ]
+  },
+  {
+    "name": "Agentic Audit",
+    "canonicalKey": "agentic audit",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/ai/agentic-audit"
+    ],
+    "sourceProjects": [
+      "AIExpenseReportAuditor"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/invoice-processing"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIExpenseReportAuditor",
+        "path": "client/src/App.jsx:101",
+        "route": "/ai/agentic-audit",
+        "originApp": "financial-services/invoice-processing"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIExpenseReportAuditor",
+        "path": "client/src/App.jsx:235",
+        "route": "/ai/agentic-audit",
+        "originApp": "financial-services/invoice-processing"
+      }
+    ]
+  },
+  {
     "name": "AI Admin Tools",
     "canonicalKey": "admin ai",
     "aliases": [],
@@ -598,131 +723,6 @@
     ]
   },
   {
-    "name": "Activity",
-    "canonicalKey": "activity",
-    "aliases": [],
-    "kinds": [
-      "api"
-    ],
-    "routes": [
-      "/activity"
-    ],
-    "sourceProjects": [
-      "AiTaxPrep"
-    ],
-    "consolidatedFromApps": [
-      "financial-services/invoice-processing"
-    ],
-    "evidence": [
-      {
-        "kind": "api",
-        "sourceProject": "AiTaxPrep",
-        "path": "server/routes/dashboard.js:168",
-        "route": "/activity",
-        "originApp": "financial-services/invoice-processing"
-      }
-    ]
-  },
-  {
-    "name": "Admin Tools",
-    "canonicalKey": "admin",
-    "aliases": [],
-    "kinds": [
-      "page"
-    ],
-    "routes": [
-      "/ai/admin-tools"
-    ],
-    "sourceProjects": [
-      "AIExpenseReportAuditor"
-    ],
-    "consolidatedFromApps": [
-      "financial-services/invoice-processing"
-    ],
-    "evidence": [
-      {
-        "kind": "page",
-        "sourceProject": "AIExpenseReportAuditor",
-        "path": "client/src/App.jsx:233",
-        "route": "/ai/admin-tools",
-        "originApp": "financial-services/invoice-processing"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIExpenseReportAuditor",
-        "path": "client/src/App.jsx:99",
-        "route": "/ai/admin-tools",
-        "originApp": "financial-services/invoice-processing"
-      }
-    ]
-  },
-  {
-    "name": "Advice",
-    "canonicalKey": "advice",
-    "aliases": [],
-    "kinds": [
-      "page"
-    ],
-    "routes": [
-      "/advice"
-    ],
-    "sourceProjects": [
-      "AiTaxPrep"
-    ],
-    "consolidatedFromApps": [
-      "financial-services/invoice-processing"
-    ],
-    "evidence": [
-      {
-        "kind": "page",
-        "sourceProject": "AiTaxPrep",
-        "path": "client/src/App.js:425",
-        "route": "/advice",
-        "originApp": "financial-services/invoice-processing"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AiTaxPrep",
-        "path": "client/src/App.js:6280",
-        "route": "/advice",
-        "originApp": "financial-services/invoice-processing"
-      }
-    ]
-  },
-  {
-    "name": "Agentic Audit",
-    "canonicalKey": "agentic audit",
-    "aliases": [],
-    "kinds": [
-      "page"
-    ],
-    "routes": [
-      "/ai/agentic-audit"
-    ],
-    "sourceProjects": [
-      "AIExpenseReportAuditor"
-    ],
-    "consolidatedFromApps": [
-      "financial-services/invoice-processing"
-    ],
-    "evidence": [
-      {
-        "kind": "page",
-        "sourceProject": "AIExpenseReportAuditor",
-        "path": "client/src/App.jsx:101",
-        "route": "/ai/agentic-audit",
-        "originApp": "financial-services/invoice-processing"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIExpenseReportAuditor",
-        "path": "client/src/App.jsx:235",
-        "route": "/ai/agentic-audit",
-        "originApp": "financial-services/invoice-processing"
-      }
-    ]
-  },
-  {
     "name": "Amended",
     "canonicalKey": "amended",
     "aliases": [],
@@ -1120,15 +1120,20 @@
       "page"
     ],
     "routes": [
+      "/:id/approvals",
       "/Approvals",
-      "/approvals"
+      "/approvals",
+      "/cases/:id/approvals"
     ],
     "sourceProjects": [
+      "AIDebtCollectionOptimizer",
       "AIExpenseReportAuditor",
+      "AIInvoiceProcessing",
       "AiFinancialReportGenerator"
     ],
     "consolidatedFromApps": [
       "financial-services/aml-transaction-monitoring",
+      "financial-services/carbon-credit-marketplace-verifier",
       "financial-services/invoice-processing"
     ],
     "evidence": [
@@ -1162,6 +1167,13 @@
       },
       {
         "kind": "api",
+        "sourceProject": "AIInvoiceProcessing",
+        "path": "server/routes/governedInvoiceWorkflow.js:163",
+        "route": "/:id/approvals",
+        "originApp": "financial-services/invoice-processing"
+      },
+      {
+        "kind": "api",
         "sourceProject": "AiFinancialReportGenerator",
         "path": "backend/src/routes/ai.js:2082",
         "route": "/approvals",
@@ -1172,6 +1184,57 @@
         "sourceProject": "AiFinancialReportGenerator",
         "path": "backend/src/routes/ai.js:2099",
         "route": "/approvals",
+        "originApp": "financial-services/aml-transaction-monitoring"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDebtCollectionOptimizer",
+        "path": "server/routes/governedWorkflow.js:109",
+        "route": "/cases/:id/approvals",
+        "originApp": "financial-services/carbon-credit-marketplace-verifier"
+      }
+    ]
+  },
+  {
+    "name": "Assess",
+    "canonicalKey": "assess",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/cases/:id/assess"
+    ],
+    "sourceProjects": [
+      "AIExpenseReportAuditor",
+      "AISOXAuditAutomation",
+      "AiFinancialReportGenerator"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aml-transaction-monitoring",
+      "financial-services/audit-workpaper-automation",
+      "financial-services/invoice-processing"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AISOXAuditAutomation",
+        "path": "server/governance/routerFactory.js:190",
+        "route": "/cases/:id/assess",
+        "originApp": "financial-services/audit-workpaper-automation"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIExpenseReportAuditor",
+        "path": "server/governance/routerFactory.js:113",
+        "route": "/cases/:id/assess",
+        "originApp": "financial-services/invoice-processing"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AiFinancialReportGenerator",
+        "path": "backend/governance/routerFactory.js:213",
+        "route": "/cases/:id/assess",
         "originApp": "financial-services/aml-transaction-monitoring"
       }
     ]
@@ -1849,13 +1912,16 @@
   {
     "name": "Categories",
     "canonicalKey": "category",
-    "aliases": [],
+    "aliases": [
+      "Categories Page"
+    ],
     "kinds": [
       "api",
       "page"
     ],
     "routes": [
       "/Categories",
+      "/Transactions/CategoriesPage",
       "/categories",
       "/transactions/categories"
     ],
@@ -1914,8 +1980,15 @@
       {
         "kind": "page",
         "sourceProject": "cash_flow",
-        "path": "src/router/AppRouter.tsx:101",
+        "path": "src/router/AppRouter.tsx:67",
         "route": "/transactions/categories",
+        "originApp": "financial-services/revenue-recognition-engine"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "cash_flow",
+        "path": "src/pages/Transactions/CategoriesPage.tsx",
+        "route": "/Transactions/CategoriesPage",
         "originApp": "financial-services/revenue-recognition-engine"
       }
     ]
@@ -2212,7 +2285,7 @@
   },
   {
     "name": "Cf Multi State Tax Planning For State Specific Deductions And Credits",
-    "canonicalKey": "and cf credit deductions for multi planning specific state tax",
+    "canonicalKey": "and cf credit deduction for multi planning specific state tax",
     "aliases": [],
     "kinds": [
       "page"
@@ -2316,7 +2389,7 @@
   },
   {
     "name": "Cf Tax Optimization Scenarios Mfj Vs Mfs Hoh",
-    "canonicalKey": "cf hoh mfj mfs optimization scenarios tax vs",
+    "canonicalKey": "cf hoh mfj mfs optimization scenario tax vs",
     "aliases": [],
     "kinds": [
       "page"
@@ -2342,7 +2415,7 @@
   },
   {
     "name": "Cf Tax Optimization Scenarios Mfj Vs Mfs Hoh With",
-    "canonicalKey": "cf hoh mfj mfs optimization scenarios tax vs with",
+    "canonicalKey": "cf hoh mfj mfs optimization scenario tax vs with",
     "aliases": [],
     "kinds": [
       "page"
@@ -2368,7 +2441,7 @@
   },
   {
     "name": "Cf Time Series Anomaly",
-    "canonicalKey": "anomaly cf series time",
+    "canonicalKey": "anomaly cf sery time",
     "aliases": [],
     "kinds": [
       "api"
@@ -3164,32 +3237,6 @@
     ]
   },
   {
-    "name": "Demo Credentials",
-    "canonicalKey": "credential demo",
-    "aliases": [],
-    "kinds": [
-      "api"
-    ],
-    "routes": [
-      "/demo-credentials"
-    ],
-    "sourceProjects": [
-      "AIExpenseReportAuditor"
-    ],
-    "consolidatedFromApps": [
-      "financial-services/invoice-processing"
-    ],
-    "evidence": [
-      {
-        "kind": "api",
-        "sourceProject": "AIExpenseReportAuditor",
-        "path": "server/routes/auth.js:32",
-        "route": "/demo-credentials",
-        "originApp": "financial-services/invoice-processing"
-      }
-    ]
-  },
-  {
     "name": "Department Benchmark",
     "canonicalKey": "benchmark department",
     "aliases": [],
@@ -3457,7 +3504,7 @@
       {
         "kind": "api",
         "sourceProject": "AIInvoiceProcessing",
-        "path": "server/index.js:444",
+        "path": "server/index.js:455",
         "route": "/api/invoices/:id/duplicate-detection",
         "originApp": "financial-services/invoice-processing"
       }
@@ -3823,7 +3870,7 @@
   },
   {
     "name": "Estimated Payments AI",
-    "canonicalKey": "ai estimated payments",
+    "canonicalKey": "ai estimated payment",
     "aliases": [],
     "kinds": [
       "page"
@@ -4088,10 +4135,36 @@
     ]
   },
   {
-    "name": "Extras",
+    "name": "Extractions",
+    "canonicalKey": "extraction",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/:id/extractions"
+    ],
+    "sourceProjects": [
+      "AIInvoiceProcessing"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/invoice-processing"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIInvoiceProcessing",
+        "path": "server/routes/governedInvoiceWorkflow.js:73",
+        "route": "/:id/extractions",
+        "originApp": "financial-services/invoice-processing"
+      }
+    ]
+  },
+  {
+    "name": "Extras Tools",
     "canonicalKey": "extra",
     "aliases": [
-      "Extras Tools"
+      "Extras"
     ],
     "kinds": [
       "page"
@@ -4218,7 +4291,7 @@
   },
   {
     "name": "Findings Summarize",
-    "canonicalKey": "findings summarize",
+    "canonicalKey": "finding summarize",
     "aliases": [],
     "kinds": [
       "api"
@@ -4295,7 +4368,7 @@
       {
         "kind": "page",
         "sourceProject": "bitcoin",
-        "path": "trading-platform/src/App.jsx:59",
+        "path": "trading-platform/src/App.jsx:63",
         "route": "/forgot-password",
         "originApp": "financial-services/smart-contract-auditor"
       },
@@ -4309,7 +4382,7 @@
       {
         "kind": "api",
         "sourceProject": "AiTaxPrep",
-        "path": "server/routes/auth.js:287",
+        "path": "server/routes/auth.js:286",
         "route": "/forgot-password",
         "originApp": "financial-services/invoice-processing"
       },
@@ -4323,7 +4396,7 @@
       {
         "kind": "api",
         "sourceProject": "aiFinancePlatform",
-        "path": "backend/src/routes/auth.js:132",
+        "path": "backend/src/routes/auth.js:92",
         "route": "/forgot-password",
         "originApp": "financial-services/aml-transaction-monitoring"
       },
@@ -4494,7 +4567,7 @@
   },
   {
     "name": "Gap Limited Integrations Module Exists But Not Deeply",
-    "canonicalKey": "but deeply exists gap integrations limited not",
+    "canonicalKey": "but deeply exist gap integration limited not",
     "aliases": [],
     "kinds": [
       "page"
@@ -4520,7 +4593,7 @@
   },
   {
     "name": "Gap Limited Integrations Module Exists But Not Deeply Wired",
-    "canonicalKey": "but deeply exists gap integrations limited not wired",
+    "canonicalKey": "but deeply exist gap integration limited not wired",
     "aliases": [],
     "kinds": [
       "page"
@@ -4581,7 +4654,7 @@
   },
   {
     "name": "Gap No Agentic Investigator Chaining Benford Ratios Network",
-    "canonicalKey": "agentic benford chaining gap investigator network no ratios",
+    "canonicalKey": "agentic benford chaining gap investigator network no ratio",
     "aliases": [],
     "kinds": [
       "api"
@@ -4727,7 +4800,7 @@
   },
   {
     "name": "Gap No Data Visualisation Endpoints Only Raw Report Exports",
-    "canonicalKey": "data endpoints export gap no only raw report visualisation",
+    "canonicalKey": "data endpoint export gap no only raw report visualisation",
     "aliases": [],
     "kinds": [
       "api"
@@ -4925,7 +4998,7 @@
   },
   {
     "name": "Gap No Notifications Subsystem",
-    "canonicalKey": "gap no notifications subsystem",
+    "canonicalKey": "gap no notification subsystem",
     "aliases": [],
     "kinds": [
       "api"
@@ -5193,7 +5266,7 @@
   },
   {
     "name": "Gap No Webhooks Notifications System",
-    "canonicalKey": "gap no notifications webhooks",
+    "canonicalKey": "gap no notification webhook",
     "aliases": [],
     "kinds": [
       "page"
@@ -5548,11 +5621,13 @@
       "page"
     ],
     "routes": [
+      "/events/import",
       "/import",
       "/receipt-scans/:id/import",
       "/transactions/import"
     ],
     "sourceProjects": [
+      "AICryptocurrencyTaxCalculator",
       "AIForensicAccountingInvestigator",
       "AiTaxPrep",
       "aiFinancePlatform",
@@ -5561,9 +5636,17 @@
     "consolidatedFromApps": [
       "financial-services/aml-transaction-monitoring",
       "financial-services/invoice-processing",
-      "financial-services/revenue-recognition-engine"
+      "financial-services/revenue-recognition-engine",
+      "financial-services/smart-contract-auditor"
     ],
     "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AICryptocurrencyTaxCalculator",
+        "path": "backend/src/routes/governedTaxRuns.js:16",
+        "route": "/events/import",
+        "originApp": "financial-services/smart-contract-auditor"
+      },
       {
         "kind": "page",
         "sourceProject": "AIForensicAccountingInvestigator",
@@ -5588,7 +5671,7 @@
       {
         "kind": "page",
         "sourceProject": "cash_flow",
-        "path": "src/router/AppRouter.tsx:100",
+        "path": "src/router/AppRouter.tsx:66",
         "route": "/transactions/import",
         "originApp": "financial-services/revenue-recognition-engine"
       },
@@ -5663,7 +5746,7 @@
       {
         "kind": "api",
         "sourceProject": "AISOXAuditAutomation",
-        "path": "server/routes/evidenceAdequacy.js:94",
+        "path": "server/routes/evidenceAdequacy.js:91",
         "route": "/info",
         "originApp": "financial-services/audit-workpaper-automation"
       },
@@ -5729,6 +5812,211 @@
         "path": "server/routes/taxScenarios.js:94",
         "route": "/info",
         "originApp": "financial-services/invoice-processing"
+      }
+    ]
+  },
+  {
+    "name": "Ingest",
+    "canonicalKey": "ingest",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/gl/ingest",
+      "/ingest"
+    ],
+    "sourceProjects": [
+      "AIAntiFraud",
+      "AIAuditWorkpaperAutomation",
+      "AIInvoiceProcessing"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aml-transaction-monitoring",
+      "financial-services/audit-workpaper-automation",
+      "financial-services/invoice-processing"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIAuditWorkpaperAutomation",
+        "path": "server/routes/extensions.js:127",
+        "route": "/gl/ingest",
+        "originApp": "financial-services/audit-workpaper-automation"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIInvoiceProcessing",
+        "path": "server/routes/governedInvoiceWorkflow.js:39",
+        "route": "/ingest",
+        "originApp": "financial-services/invoice-processing"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIAntiFraud",
+        "path": "server/routes/governedInvestigations.js:15",
+        "route": "/ingest",
+        "originApp": "financial-services/aml-transaction-monitoring"
+      }
+    ]
+  },
+  {
+    "name": "Integrations",
+    "canonicalKey": "integration",
+    "aliases": [
+      "Integration",
+      "Integration Center",
+      "Integration Page",
+      "Integrations Page"
+    ],
+    "kinds": [
+      "api",
+      "navigation",
+      "page"
+    ],
+    "routes": [
+      "/:id/integrations",
+      "/Integration/IntegrationPage",
+      "/IntegrationCenter",
+      "/Integrations",
+      "/IntegrationsPage",
+      "/dashboard/integrations",
+      "/integration",
+      "/integration-center",
+      "/integrations",
+      "/sox-ops/integrations"
+    ],
+    "sourceProjects": [
+      "AIExpenseReportAuditor",
+      "AIFamilyOfficeManager",
+      "AIForensicAccountingInvestigator",
+      "AIInsuranceUnderwritingAgent",
+      "AISOXAuditAutomation",
+      "AIWealthManagementRoboAdvisor",
+      "AiTaxPrep",
+      "cash_flow",
+      "financialServices"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aml-transaction-monitoring",
+      "financial-services/audit-workpaper-automation",
+      "financial-services/insurance-claims-adjuster",
+      "financial-services/invoice-processing",
+      "financial-services/revenue-recognition-engine",
+      "financial-services/trading-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AISOXAuditAutomation",
+        "path": "client/src/components/Layout.jsx:17",
+        "route": "/sox-ops/integrations",
+        "originApp": "financial-services/audit-workpaper-automation"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIExpenseReportAuditor",
+        "path": "client/src/App.jsx:102",
+        "route": "/integrations",
+        "originApp": "financial-services/invoice-processing"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIExpenseReportAuditor",
+        "path": "client/src/App.jsx:236",
+        "route": "/integrations",
+        "originApp": "financial-services/invoice-processing"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIExpenseReportAuditor",
+        "path": "client/src/pages/Integrations.jsx",
+        "route": "/Integrations",
+        "originApp": "financial-services/invoice-processing"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIForensicAccountingInvestigator",
+        "path": "backend/src/routes/governedCases.js:11",
+        "route": "/:id/integrations",
+        "originApp": "financial-services/invoice-processing"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AiTaxPrep",
+        "path": "server/governance/router.js:175",
+        "route": "/:id/integrations",
+        "originApp": "financial-services/invoice-processing"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "cash_flow",
+        "path": "src/router/AppRouter.tsx:70",
+        "route": "/integration",
+        "originApp": "financial-services/revenue-recognition-engine"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "cash_flow",
+        "path": "src/pages/Integration/IntegrationPage.tsx",
+        "route": "/Integration/IntegrationPage",
+        "originApp": "financial-services/revenue-recognition-engine"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIFamilyOfficeManager",
+        "path": "frontend/src/App.js:137",
+        "route": "/integrations",
+        "originApp": "financial-services/trading-merged"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIWealthManagementRoboAdvisor",
+        "path": "server/governance/router.js:175",
+        "route": "/:id/integrations",
+        "originApp": "financial-services/trading-merged"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIFamilyOfficeManager",
+        "path": "frontend/src/pages/IntegrationsPage.js",
+        "route": "/IntegrationsPage",
+        "originApp": "financial-services/trading-merged"
+      },
+      {
+        "kind": "navigation",
+        "sourceProject": "AIInsuranceUnderwritingAgent",
+        "path": "frontend/src/navigation.js:30",
+        "route": "",
+        "originApp": "financial-services/insurance-claims-adjuster"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIInsuranceUnderwritingAgent",
+        "path": "frontend/src/App.jsx:66",
+        "route": "/integration-center",
+        "originApp": "financial-services/insurance-claims-adjuster"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIInsuranceUnderwritingAgent",
+        "path": "frontend/src/pages/IntegrationCenter.jsx",
+        "route": "/IntegrationCenter",
+        "originApp": "financial-services/insurance-claims-adjuster"
+      },
+      {
+        "kind": "navigation",
+        "sourceProject": "financialServices",
+        "path": "src/components/layout/Sidebar.tsx:32",
+        "route": "",
+        "originApp": "financial-services/aml-transaction-monitoring"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "financialServices",
+        "path": "src/app/dashboard/integrations/page.tsx",
+        "route": "/dashboard/integrations",
+        "originApp": "financial-services/aml-transaction-monitoring"
       }
     ]
   },
@@ -5966,6 +6254,32 @@
         "path": "backend/strategy_marketplace.py:47",
         "route": "/list",
         "originApp": "financial-services/freqtrade-merged"
+      }
+    ]
+  },
+  {
+    "name": "Matches",
+    "canonicalKey": "matche",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/:id/matches"
+    ],
+    "sourceProjects": [
+      "AIInvoiceProcessing"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/invoice-processing"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIInvoiceProcessing",
+        "path": "server/routes/governedInvoiceWorkflow.js:118",
+        "route": "/:id/matches",
+        "originApp": "financial-services/invoice-processing"
       }
     ]
   },
@@ -6252,7 +6566,7 @@
       {
         "kind": "api",
         "sourceProject": "AIInvoiceProcessing",
-        "path": "server/index.js:261",
+        "path": "server/index.js:297",
         "route": "/api/invoices/ocr-upload",
         "originApp": "financial-services/invoice-processing"
       }
@@ -6295,7 +6609,7 @@
       {
         "kind": "api",
         "sourceProject": "AiTaxPrep",
-        "path": "server/routes/auth.js:243",
+        "path": "server/routes/auth.js:242",
         "route": "/password",
         "originApp": "financial-services/invoice-processing"
       }
@@ -6321,7 +6635,7 @@
       {
         "kind": "api",
         "sourceProject": "AIInvoiceProcessing",
-        "path": "server/index.js:496",
+        "path": "server/index.js:507",
         "route": "/api/vendors/:id/payment-term-advisor",
         "originApp": "financial-services/invoice-processing"
       }
@@ -6476,6 +6790,32 @@
     ]
   },
   {
+    "name": "Posting Outcomes",
+    "canonicalKey": "outcome posting",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/:id/posting-outcomes"
+    ],
+    "sourceProjects": [
+      "AIInvoiceProcessing"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/invoice-processing"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIInvoiceProcessing",
+        "path": "server/routes/governedInvoiceWorkflow.js:228",
+        "route": "/:id/posting-outcomes",
+        "originApp": "financial-services/invoice-processing"
+      }
+    ]
+  },
+  {
     "name": "Profile",
     "canonicalKey": "profile",
     "aliases": [
@@ -6532,7 +6872,7 @@
       {
         "kind": "page",
         "sourceProject": "bitcoin",
-        "path": "trading-platform/src/App.jsx:62",
+        "path": "trading-platform/src/App.jsx:66",
         "route": "/profile",
         "originApp": "financial-services/smart-contract-auditor"
       },
@@ -6574,7 +6914,7 @@
       {
         "kind": "page",
         "sourceProject": "cash_flow",
-        "path": "src/router/AppRouter.tsx:113",
+        "path": "src/router/AppRouter.tsx:80",
         "route": "/account/profile",
         "originApp": "financial-services/revenue-recognition-engine"
       },
@@ -6595,7 +6935,7 @@
       {
         "kind": "page",
         "sourceProject": "trading",
-        "path": "frontend/src/App.js:216",
+        "path": "frontend/src/App.js:22",
         "route": "/profile",
         "originApp": "financial-services/trading-merged"
       },
@@ -6637,7 +6977,7 @@
       {
         "kind": "api",
         "sourceProject": "aiFinancePlatform",
-        "path": "backend/src/routes/auth.js:392",
+        "path": "backend/src/routes/auth.js:348",
         "route": "/profile",
         "originApp": "financial-services/aml-transaction-monitoring"
       },
@@ -6950,32 +7290,6 @@
     ]
   },
   {
-    "name": "Reconcile",
-    "canonicalKey": "reconcile",
-    "aliases": [],
-    "kinds": [
-      "api"
-    ],
-    "routes": [
-      "/:id/reconcile"
-    ],
-    "sourceProjects": [
-      "AIExpenseReportAuditor"
-    ],
-    "consolidatedFromApps": [
-      "financial-services/invoice-processing"
-    ],
-    "evidence": [
-      {
-        "kind": "api",
-        "sourceProject": "AIExpenseReportAuditor",
-        "path": "server/routes/budgets.js:76",
-        "route": "/:id/reconcile",
-        "originApp": "financial-services/invoice-processing"
-      }
-    ]
-  },
-  {
     "name": "Render",
     "canonicalKey": "render",
     "aliases": [],
@@ -7162,6 +7476,32 @@
     ]
   },
   {
+    "name": "Runtime Config Js",
+    "canonicalKey": "config js runtime",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/runtime-config.js"
+    ],
+    "sourceProjects": [
+      "AIInvoiceProcessing"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/invoice-processing"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIInvoiceProcessing",
+        "path": "server/frontend.js:11",
+        "route": "/runtime-config.js",
+        "originApp": "financial-services/invoice-processing"
+      }
+    ]
+  },
+  {
     "name": "Scan",
     "canonicalKey": "scan",
     "aliases": [],
@@ -7218,7 +7558,7 @@
       {
         "kind": "api",
         "sourceProject": "AIInsuranceClaimsAdjuster",
-        "path": "backend/routes/fraudRingDetection.js:38",
+        "path": "backend/routes/fraudRingDetection.js:37",
         "route": "/scan",
         "originApp": "financial-services/insurance-claims-adjuster"
       },
@@ -7375,7 +7715,7 @@
       {
         "kind": "api",
         "sourceProject": "AIInvoiceProcessing",
-        "path": "server/index.js:610",
+        "path": "server/index.js:621",
         "route": "/api/vendors/:id/scorecard",
         "originApp": "financial-services/invoice-processing"
       }
@@ -7480,12 +7820,15 @@
     ],
     "routes": [
       "/efile/state",
+      "/state",
       "/states"
     ],
     "sourceProjects": [
-      "AiTaxPrep"
+      "AiTaxPrep",
+      "investment"
     ],
     "consolidatedFromApps": [
+      "financial-services/freqtrade-merged",
       "financial-services/invoice-processing"
     ],
     "evidence": [
@@ -7502,6 +7845,13 @@
         "path": "server/routes/calculations.js:324",
         "route": "/states",
         "originApp": "financial-services/invoice-processing"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "investment",
+        "path": "backend/governed_trading.py:1320",
+        "route": "/state",
+        "originApp": "financial-services/freqtrade-merged"
       }
     ]
   },
@@ -7690,17 +8040,52 @@
       "api"
     ],
     "routes": [
+      "/:id/submit",
       "/efile/submit",
       "/interview/submit",
       "/tax-year/:taxYearId/efile/submit"
     ],
     "sourceProjects": [
+      "AIAPARAutomation",
+      "AIAccessibilityAuditAgent",
+      "AIForensicAccountingInvestigator",
+      "AIWealthManagementRoboAdvisor",
       "AiTaxPrep"
     ],
     "consolidatedFromApps": [
-      "financial-services/invoice-processing"
+      "financial-services/audit-workpaper-automation",
+      "financial-services/invoice-processing",
+      "financial-services/trading-merged"
     ],
     "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIAPARAutomation",
+        "path": "backend/routes/invoicePostingWorkflow.js:15",
+        "route": "/:id/submit",
+        "originApp": "financial-services/audit-workpaper-automation"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIAccessibilityAuditAgent",
+        "path": "backend/routes/governedAudits.js:6",
+        "route": "/:id/submit",
+        "originApp": "financial-services/audit-workpaper-automation"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIForensicAccountingInvestigator",
+        "path": "backend/src/routes/governedCases.js:9",
+        "route": "/:id/submit",
+        "originApp": "financial-services/invoice-processing"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AiTaxPrep",
+        "path": "server/governance/router.js:113",
+        "route": "/:id/submit",
+        "originApp": "financial-services/invoice-processing"
+      },
       {
         "kind": "api",
         "sourceProject": "AiTaxPrep",
@@ -7721,6 +8106,13 @@
         "path": "server/routes/ai.js:588",
         "route": "/interview/submit",
         "originApp": "financial-services/invoice-processing"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIWealthManagementRoboAdvisor",
+        "path": "server/governance/router.js:113",
+        "route": "/:id/submit",
+        "originApp": "financial-services/trading-merged"
       }
     ]
   },
@@ -7734,7 +8126,6 @@
     "routes": [
       "/:entity/summary",
       "/:id/summary",
-      "/api/ai-results/summary",
       "/stats/summary",
       "/summary",
       "/tax-year/:taxYearId/pdf/summary",
@@ -7750,14 +8141,12 @@
       "AiTaxPrep",
       "aiFinancePlatform",
       "bitcoin",
-      "claudeTrading",
-      "investment"
+      "claudeTrading"
     ],
     "consolidatedFromApps": [
       "financial-services/aml-transaction-monitoring",
       "financial-services/audit-workpaper-automation",
       "financial-services/carbon-credit-marketplace-verifier",
-      "financial-services/freqtrade-merged",
       "financial-services/insurance-claims-adjuster",
       "financial-services/invoice-processing",
       "financial-services/smart-contract-auditor",
@@ -7840,13 +8229,6 @@
         "path": "server/routes/taxYears.js:168",
         "route": "/:id/summary",
         "originApp": "financial-services/invoice-processing"
-      },
-      {
-        "kind": "api",
-        "sourceProject": "investment",
-        "path": "backend/main.py:368",
-        "route": "/api/ai-results/summary",
-        "originApp": "financial-services/freqtrade-merged"
       },
       {
         "kind": "api",
@@ -7987,6 +8369,32 @@
         "sourceProject": "AIExpenseReportAuditor",
         "path": "client/src/pages/Dashboard.jsx:36",
         "route": "/ai/tax-deductions",
+        "originApp": "financial-services/invoice-processing"
+      }
+    ]
+  },
+  {
+    "name": "Tax Guidance",
+    "canonicalKey": "guidance tax",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/tax-guidance"
+    ],
+    "sourceProjects": [
+      "AiTaxPrep"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/invoice-processing"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AiTaxPrep",
+        "path": "server/routes/runtimeAi.js:6",
+        "route": "/tax-guidance",
         "originApp": "financial-services/invoice-processing"
       }
     ]
@@ -8150,7 +8558,7 @@
       {
         "kind": "api",
         "sourceProject": "AIInvoiceProcessing",
-        "path": "server/index.js:323",
+        "path": "server/index.js:334",
         "route": "/api/invoices/:id/three-way-match",
         "originApp": "financial-services/invoice-processing"
       }
@@ -8353,7 +8761,7 @@
       {
         "kind": "api",
         "sourceProject": "aiFinancePlatform",
-        "path": "backend/src/routes/auth.js:311",
+        "path": "backend/src/routes/auth.js:271",
         "route": "/2fa/validate",
         "originApp": "financial-services/aml-transaction-monitoring"
       }
