@@ -3,7 +3,7 @@
 Industry: **Financial Services**  
 Specialization: **Invoice Processing**
 
-This standalone application consolidates source-backed capabilities into 234 optimized features, including 29 visible data-backed or AI-enabled views. Its public demo SQLite database contains 437 sanitized source rows across 27 imported tables and 120 operational workflow records.
+This standalone application consolidates source-backed capabilities into 234 optimized features, including all 234 source-backed feature views. Its public demo SQLite database contains 437 sanitized source rows across 27 imported tables and 120 operational workflow records.
 
 ## Run locally
 
